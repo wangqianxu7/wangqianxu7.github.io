@@ -36,7 +36,7 @@ My research interests include:
 
 # 🌟 Experience
 
-- *now* None.
+- None.
 
 
 # 🎖 Honors and Awards
@@ -45,9 +45,6 @@ My research interests include:
 # 📖 Educations
 - *2025.09 - 2028.06(expected)*   Master, SUPD, Peking University
 - *2021.09 - 2025.06*   Undergraduate, School of Software, Nanjing University of Information Science & Technology
-
-<!-- # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 💻 Internships/Project
 - *2024.07 - 2024.12* Shenzhen Marine Promotion Center, Technical Services for Large Language Models in Project Marine Area Usage Demonstration Reports, Project Lead, Ongoing Research
