@@ -40,7 +40,7 @@ My research interests include:
 
 
 # 🎖 Honors and Awards
-- *2025.05* Outstanding Graduate, Nanjing University of Information Science & Technology
+- None.
 
 # 📖 Educations
 - *2025.09 - 2028.06(expected)*   Master, SUPD, Peking University
