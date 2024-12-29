@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a senior majoring in Software Engineering at the School of Software, Nanjing University of Information Science & Technology, under the supervision of [Prof. Xiaolong Xu](https://faculty.nuist.edu.cn/xuxiaolong/zh_CN/index.htm) in the Loong lab. I have been admitted to the Graduate School of Peking University Shenzhen, where I will pursue a Master's degree in Land and Spatial Planning, under the supervision of [Prof. Wenjia Zhang](https://upd-caup.tongji.edu.cn/2c/f9/c20527a339193/page.htm) in the BSAI lab, starting in 2025.
+I am currently a senior majoring in Software Engineering at the School of Software, Nanjing University of Information Science & Technology, under the supervision of [Prof. Xiaolong Xu](https://faculty.nuist.edu.cn/xuxiaolong/zh_CN/index.htm) in the Loong lab. I have been admitted to the Shenzhen Graduate School of Peking University, where I will pursue a Master's degree in Land and Spatial Planning, under the supervision of [Prof. Wenjia Zhang](https://upd-caup.tongji.edu.cn/2c/f9/c20527a339193/page.htm) in the BSAI lab, starting in 2025.
 
 My research interests include:
 - **Edge Computing:** UAV-enhanced edge computing and its applications;
@@ -47,5 +47,5 @@ My research interests include:
 - *2021.09 - 2025.06*   Undergraduate, School of Software, Nanjing University of Information Science & Technology
 
 # 💻 Internships/Project
-- *2024.07 - 2024.12* Shenzhen Marine Promotion Center, Technical Services for Large Language Models in Project Marine Area Usage Demonstration Reports, Project Lead, Ongoing Research
-- *2024.09 - 2024.12* China Academy of Urban Planning and Design (CUAPD), Database Construction, Model Optimization, and Application Development for Large Language Models in the Planning Field, Project Lead, Ongoing Research
+- *2024.07 - 2024.12* Shenzhen Marine Promotion Center, Technical Services for Large Language Models in Project Marine Area Usage Demonstration Reports, Project Member, Ongoing Research
+- *2024.09 - 2024.12* China Academy of Urban Planning and Design (CUAPD), Database Construction, Model Optimization, and Application Development for Large Language Models in the Planning Field, Project Member, Ongoing Research
