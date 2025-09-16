@@ -40,12 +40,14 @@ My research interests include:
 
 
 # 🎖 Honors and Awards
-- None.
+- **Bachelor's Degree with Honor**(Top 1% of Graduates), Nanjing University of Information Science and Technology
+
+- ​​University-Level Outstanding Graduation Thesis, **First-Class Award**​​
 
 # 📖 Educations
-- *2025.09 - 2028.06(expected)*   Master, SUPD, Peking University
-- *2021.09 - 2025.06*   Undergraduate, School of Software, Nanjing University of Information Science & Technology
+- **2025.09 - 2028.06(expected)**   Master, SUPD, Peking University
+- **2021.09 - 2025.06**   Undergraduate, School of Software, Nanjing University of Information Science & Technology
 
 # 💻 Internships/Project
-- *2024.07 - 2024.12* Shenzhen Marine Promotion Center, Technical Services for Large Language Models in Project Marine Area Usage Demonstration Reports, Project Member, Ongoing Research
-- *2024.09 - 2024.12* China Academy of Urban Planning and Design (CUAPD), Database Construction, Model Optimization, and Application Development for Large Language Models in the Planning Field, Project Member, Ongoing Research
+- **2024.07 - 2024.12** Shenzhen Marine Promotion Center, Technical Services for Large Language Models in Project Marine Area Usage Demonstration Reports, Project Member, Ongoing Research
+- **2024.09 - 2024.12** China Academy of Urban Planning and Design (CUAPD), Database Construction, Model Optimization, and Application Development for Large Language Models in the Planning Field, Project Member, Ongoing Research

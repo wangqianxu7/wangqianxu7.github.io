@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Wen Wang"
   avatar           : "images/IMG_8490.JPG"
-  bio              : "B.E. Candidate in Software Engineering, School of Software, Nanjing University of Information Science & Technology"
-  location         : "Nanjing, China"
+  bio              : "M.S. Candidate in Smart Cities and Big Data, School of Urban Planning and Design, at Peking University Shenzhen Graduate School"
+  location         : "Shenzhen, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=AqcND7gAAAAJ"
-  email            : "wqxnuist@gmail.com"
+  email            : "wwang25@stu.pku.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
