@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a senior majoring in Software Engineering at the School of Software, Nanjing University of Information Science & Technology, under the supervision of [Prof. Xiaolong Xu](https://faculty.nuist.edu.cn/xuxiaolong/zh_CN/index.htm) in the Loong lab. I have been admitted to the Shenzhen Graduate School of Peking University, where I will pursue a Master's degree in Land and Spatial Planning, under the supervision of [Prof. Wenjia Zhang](https://upd-caup.tongji.edu.cn/2c/f9/c20527a339193/page.htm) in the BSAI lab, starting in 2025.
+I hold a Bachelor's degree in Software Engineering from the School of Software, Nanjing University of Information Science & Technology, where I completed my undergraduate studies under the supervision of [Prof. Xiaolong Xu](https://faculty.nuist.edu.cn/xuxiaolong/zh_CN/index.htm) in the Loong lab. I am currently pursuing a Master's degree in Land and Spatial Planning at the Shenzhen Graduate School of Peking University under the supervision of [Prof. Wenjia Zhang](https://upd-caup.tongji.edu.cn/2c/f9/c20527a339193/page.htm) in the BSAI lab, starting in 2025.
 
 My research interests include:
 - **Large Language Model Agents:** applications in scientific research, deep research, reasoning enhancement;

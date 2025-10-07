@@ -1,7 +1,7 @@
 
 # 📝 Publications 📚✨🔍
 
-- [PlanGPT-VL: Enhancing Urban Planning with Domain-Specific Vision-Language Models](https://arxiv.org/abs/2505.14481), <br> He Zhu, Junyou Su, Minxin Chen, **Wen Wang**, Yijie Deng, Guanhua Chen, Wenjia Zhang
+- `EMNLP 2025` [PlanGPT-VL: Enhancing Urban Planning with Domain-Specific Vision-Language Models](https://arxiv.org/abs/2505.14481), <br> He Zhu, Junyou Su, Minxin Chen, **Wen Wang**, Yijie Deng, Guanhua Chen, Wenjia Zhang
 
 - `CHB 2024` [Adaptive ubiquitous learning for server deployment and distributed offloading in UAV-enhanced IoV](https://www.sciencedirect.com/science/article/pii/S0747563224002619), <br> **Wen Wang**, Wenhao Fei, Muhammad Bilal, Xiaolong Xu.
 
