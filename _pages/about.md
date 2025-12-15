@@ -63,8 +63,10 @@ My research interests include:
 <span class='anchor' id='internships'></span>
 # 💻 Internships/Project
 - **2024.07 - 2024.12** Shenzhen Marine Promotion Center, Technical Services for Large Language Models in Project Marine Area Usage Demonstration Reports, Project Member, **Completed**
-  *Developed an **LLM-based agent auditing system** with modular agent architecture (planner–executor–reviewer), incorporating policy rule encoding, tool-augmented reasoning, and structured output constraints; designed evaluation metrics for compliance accuracy, reasoning consistency, and error detection performance.*
+
+*Developed an **LLM-based agent auditing system** with modular agent architecture (planner–executor–reviewer), incorporating policy rule encoding, tool-augmented reasoning, and structured output constraints; designed evaluation metrics for compliance accuracy, reasoning consistency, and error detection performance.*
 
 
 - **2024.09 - 2024.12** China Academy of Urban Planning and Design (CUAPD), Database Construction, Model Optimization, and Application Development for Large Language Models in the Planning Field, Project Member, **Completed**
-  *Implemented a **RAG pipeline for planning-domain applications**, including document preprocessing and chunking, domain-adapted **embedding model selection**, **vector database** construction and retrieval tuning, reranking strategies, and end-to-end evaluation on retrieval accuracy and answer faithfulness.*
+
+*Implemented a **RAG pipeline for planning-domain applications**, including document preprocessing and chunking, domain-adapted **embedding model selection**, **vector database** construction and retrieval tuning, reranking strategies, and end-to-end evaluation on retrieval accuracy and answer faithfulness.*
