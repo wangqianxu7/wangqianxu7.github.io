@@ -45,7 +45,7 @@ My research interests include:
 
 # 🌟 Experience
 
-- Served as a Reviewer for IEEE ICPADS 2023 (CCF-C).
+- Served as a Reviewer for **IEEE ICPADS 2023** (CCF-C).
 
 
 # 🎖 Honors and Awards
@@ -54,7 +54,7 @@ My research interests include:
 - ​​University-Level Outstanding Graduation Thesis, **First-Class Award**​​
 
 # 📖 Educations
-- **2025.09 - 2028.06(Expected)**   Master, SUPD, Peking University
+- **2025.09 - 2028.06 (Expected)**   Master, SUPD, Peking University
 - **2021.09 - 2025.06**   Undergraduate, School of Software, Nanjing University of Information Science & Technology (GPA: 4.1/5.0, Ranking: 1/143)
 
 # 💻 Internships/Project
