@@ -34,6 +34,7 @@ My research interests include:
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 
+<span class='anchor' id='publications'></span>
 # 📝 Publications 📚✨🔍
 
 - `EMNLP 2025` [PlanGPT-VL: Enhancing Urban Planning with Domain-Specific Vision-Language Models](https://arxiv.org/abs/2505.14481), <br> He Zhu, Junyou Su, Minxin Chen, **Wen Wang**, Yijie Deng, Guanhua Chen, Wenjia Zhang
@@ -43,20 +44,23 @@ My research interests include:
 - `TCE 2024` [UAV-Assisted Content Caching for Human-Centric Consumer Applications in IoV](https://ieeexplore.ieee.org/document/10379431), <br> **Wen Wang**, Xiaolong Xu, Muhammad Bilal, Maqbool Khan, Yizhou Xing.
 
 
+<span class='anchor' id='experience'></span>
 # 🌟 Experience
 
 - Served as a Reviewer for **IEEE ICPADS 2023** (CCF-C).
 
-
+<span class='anchor' id='honors-and-awards'></span>
 # 🎖 Honors and Awards
 - **Bachelor's Degree with Honor**(Top 1% of Graduates), Nanjing University of Information Science and Technology
 
 - ​​University-Level Outstanding Graduation Thesis, **First-Class Award**​​
 
+<span class='anchor' id='educations'></span>
 # 📖 Educations
 - **2025.09 - 2028.06 (Expected)**   Master, SUPD, Peking University
 - **2021.09 - 2025.06**   Undergraduate, School of Software, Nanjing University of Information Science & Technology (GPA: 4.1/5.0, Ranking: 1/143)
 
+<span class='anchor' id='internships'></span>
 # 💻 Internships/Project
 - **2024.07 - 2024.12** Shenzhen Marine Promotion Center, Technical Services for Large Language Models in Project Marine Area Usage Demonstration Reports, Project Member, **Completed**
   *Developed an **LLM-based agent auditing system** with modular agent architecture (planner–executor–reviewer), incorporating policy rule encoding, tool-augmented reasoning, and structured output constraints; designed evaluation metrics for compliance accuracy, reasoning consistency, and error detection performance.*
