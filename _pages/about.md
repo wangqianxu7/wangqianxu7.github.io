@@ -27,7 +27,6 @@ My research interests include:
 
 <span style="color: red; text-align: center;">I am actively seeking **research or engineering internship opportunities** in **Shenzhen**, with immediate availability. I am particularly interested in work related to **LLM agents, supervised fine-tuning (SFT), and reinforcement learning (RL)**.</span>
 
-🎉🎉🎉 Feel free to reach out to me for academic discussions and collaborations!
 
 <!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -58,15 +57,21 @@ My research interests include:
 <span class='anchor' id='educations'></span>
 # 📖 Educations
 - **2025.09 - 2028.06 (Expected)**   Master, SUPD, Peking University
-- **2021.09 - 2025.06**   Undergraduate, School of Software, Nanjing University of Information Science & Technology (GPA: 4.1/5.0, Ranking: 1/143)
+- **2021.09 - 2025.06**   Undergraduate, School of Software, Nanjing University of Information Science & Technology (GPA: 4.1/5.0, Ranking: 1/142)
 
 <span class='anchor' id='internships'></span>
 # 💻 Internships/Project
-- **2024.07 - 2024.12** Shenzhen Marine Promotion Center, Technical Services for Large Language Models in Project Marine Area Usage Demonstration Reports, Project Member, **Completed**
 
-*Developed an **LLM-based agent auditing system** with modular agent architecture (planner–executor–reviewer), incorporating policy rule encoding, tool-augmented reasoning, and structured output constraints; designed evaluation metrics for compliance accuracy, reasoning consistency, and error detection performance.*
+- **Shenzhen Marine Promotion Center**  
+  *Technical Services for Large Language Models in Project Marine Area Usage Demonstration Reports*  
+  **Project Member** | Jul 2024 – Dec 2024 | ✅ Completed  
+  - Developed an **LLM-based agent auditing system** featuring a modular **planner–executor–reviewer** architecture.  
+  - Integrated **policy rule encoding**, **tool-augmented reasoning**, and **structured output constraints** to ensure regulatory compliance.  
+  - Designed evaluation metrics for **compliance accuracy**, **reasoning consistency**, and **error detection performance**.
 
-
-- **2024.09 - 2024.12** China Academy of Urban Planning and Design (CUAPD), Database Construction, Model Optimization, and Application Development for Large Language Models in the Planning Field, Project Member, **Completed**
-
-*Implemented a **RAG pipeline for planning-domain applications**, including document preprocessing and chunking, domain-adapted **embedding model selection**, **vector database** construction and retrieval tuning, reranking strategies, and end-to-end evaluation on retrieval accuracy and answer faithfulness.*
+- **China Academy of Urban Planning and Design (CUAPD)**  
+  *Database Construction, Model Optimization, and Application Development for LLMs in Urban Planning*  
+  **Project Member** | Sep 2024 – Dec 2024 | ✅ Completed  
+  - Built an end-to-end **RAG pipeline** tailored for urban planning domain applications.  
+  - Optimized document preprocessing, chunking strategy, and selected **domain-adapted embedding models**.  
+  - Constructed and tuned a **vector database**, implemented **reranking**, and evaluated system on **retrieval accuracy** and **answer faithfulness**.
