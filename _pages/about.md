@@ -62,7 +62,7 @@ My research interests include:
 <span class='anchor' id='internships'></span>
 # 💻 Internships
 
-- **RayNeo.AI** — Foundation Model Department, RAYNEO (Smart Glasses) [https://rayneo.cn]  
+- **RayNeo.AI** — Foundation Model Department, [RAYNEO](https://rayneo.cn) (Smart Glasses)  
   <!-- **Manager:** [Sijie Cheng](https://adacheng.github.io/data/SijieCheng-CV.pdf)   -->
   <!-- *Research Intern* | Jun 2026 – Present | Shenzhen, China   -->
   *Research Intern* | Jun 2026 – Present | Shenzhen, China
