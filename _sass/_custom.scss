@@ -1,0 +1,273 @@
+/* ==========================================================================
+   CUSTOM STYLES
+   ========================================================================== */
+
+/*
+   Scrollbar
+   ========================================================================== */
+
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: $slate-100;
+}
+
+::-webkit-scrollbar-thumb {
+  background: $slate-300;
+  border-radius: 4px;
+
+  &:hover {
+    background: $slate-400;
+  }
+}
+
+/*
+   Section accent divider
+   ========================================================================== */
+
+.section-divider {
+  width: 60px;
+  height: 3px;
+  background: linear-gradient(90deg, $indigo, $indigo-light);
+  border-radius: 2px;
+  margin: 0.5em 0 1.5em;
+}
+
+/*
+   Publication cards
+   ========================================================================== */
+
+.pub-entry {
+  padding: 1em 1.25em;
+  margin-bottom: 0.75em;
+  background: #fff;
+  border-radius: $border-radius;
+  border: 1px solid $border-color;
+  box-shadow: $shadow-sm;
+  transition: all 0.3s ease;
+  position: relative;
+  overflow: hidden;
+
+  &:before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 3px;
+    background: linear-gradient(90deg, $indigo, $indigo-light);
+    transform: scaleX(0);
+    transform-origin: left;
+    transition: transform 0.3s ease;
+  }
+
+  &:hover {
+    box-shadow: $shadow-lg;
+    transform: translateY(-2px);
+    border-color: $indigo-subtle;
+
+    &:before {
+      transform: scaleX(1);
+    }
+  }
+
+  strong {
+    color: $indigo-dark;
+  }
+
+  em {
+    color: $slate-500;
+  }
+}
+
+/*
+   Publication venue badge
+   ========================================================================== */
+
+.venue-badge {
+  display: inline-block;
+  padding: 0.15em 0.6em;
+  font-size: 0.8em;
+  font-weight: 600;
+  color: #fff;
+  background: linear-gradient(135deg, $indigo, $indigo-dark);
+  border-radius: 20px;
+  margin-right: 0.5em;
+  white-space: nowrap;
+}
+
+/*
+   Paper box enhanced
+   ========================================================================== */
+
+.paper-box {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    border-bottom: none;
+    padding: 1.5em;
+    margin-bottom: 1em;
+    background: #fff;
+    border-radius: $border-radius;
+    box-shadow: $shadow-sm;
+    transition: all 0.3s ease;
+
+    &:hover {
+      box-shadow: $shadow-lg;
+      transform: translateY(-2px);
+    }
+
+    .paper-box-image {
+        justify-content: center;
+        display: flex;
+        width: 100%;
+        order: 2;
+        img {
+            max-width: 400px;
+            box-shadow: $shadow-md;
+            border-radius: $border-radius;
+            object-fit: cover;
+            transition: all 0.3s ease;
+
+            &:hover {
+              box-shadow: $shadow-xl;
+            }
+        }
+    }
+
+    .paper-box-text {
+        max-width: 100%;
+        order: 1;
+    }
+
+    @include breakpoint($medium) {
+        .paper-box-image {
+            justify-content: left;
+            min-width: 200px;
+            max-width: 40%;
+            order: 1;
+        }
+
+        .paper-box-text {
+            justify-content: left;
+            padding-left: 2em;
+            max-width: 60%;
+            order: 2;
+        }
+    }
+}
+
+/*
+   Research interest tags
+   ========================================================================== */
+
+.research-tag {
+  display: inline-block;
+  padding: 0.3em 0.8em;
+  margin: 0.25em 0.35em 0.25em 0;
+  font-size: 0.85em;
+  font-weight: 500;
+  color: $indigo-dark;
+  background: $indigo-subtle;
+  border: 1px solid rgba($indigo, 0.15);
+  border-radius: 20px;
+  transition: all 0.25s ease;
+
+  &:hover {
+    background: $indigo;
+    color: #fff;
+    border-color: $indigo;
+    transform: translateY(-1px);
+  }
+}
+
+/*
+   Anchor offset
+   ========================================================================== */
+
+$scroll_offset : 2em;
+h1:before, .anchor:before {
+    content: '';
+    display: block;
+    position: relative;
+    width: 0;
+    height: $scroll_offset;
+    margin-top: -$scroll_offset;
+}
+
+/*
+   Badge override
+   ========================================================================== */
+
+.badge {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    position: absolute;
+    margin-top: .5em;
+    margin-left: -.5em;
+    color: white;
+    background: linear-gradient(135deg, $indigo, $indigo-dark);
+    font-size: .8em;
+    border-radius: 4px;
+    font-weight: 600;
+}
+
+/*
+   Smooth section entrance
+   ========================================================================== */
+
+.page__content {
+  h1, h2, h3 {
+    animation: fadeInUp 0.5s ease both;
+  }
+
+  h1 { animation-delay: 0.1s; }
+  h2 { animation-delay: 0.15s; }
+
+  p, ul, ol, blockquote {
+    animation: fadeInUp 0.5s ease both;
+    animation-delay: 0.2s;
+  }
+}
+
+/*
+   Code blocks
+   ========================================================================== */
+
+div.highlighter-rouge,
+figure.highlight {
+  border-radius: $border-radius;
+  box-shadow: $shadow-sm;
+  margin: 1em 0;
+
+  pre.highlight {
+    border-radius: $border-radius;
+  }
+}
+
+/*
+   Responsive tweaks
+   ========================================================================== */
+
+@include breakpoint(max-width $small) {
+  .profile_box {
+    padding: 0.75em;
+  }
+
+  .pub-entry {
+    padding: 0.75em 1em;
+  }
+
+  .paper-box {
+    padding: 1em;
+  }
+
+  .page__content h1 {
+    font-size: $type-size-4;
+  }
+}

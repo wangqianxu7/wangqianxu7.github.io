@@ -37,6 +37,7 @@
 .page__title {
   margin-top: 0;
   line-height: 1;
+  font-family: $header-font-family;
 
   & + .page__meta {
     margin-top: -0.5em;
@@ -49,21 +50,50 @@
 }
 
 .page__content {
-  #about-me{
+  #about-me {
     margin-top: -10em;
-      &:before { 
-        content: ''; 
-        display: block; 
-        position: relative; 
-        width: 0; 
-        height: 10em; 
-        margin-top: -10em;
+    &:before {
+      content: '';
+      display: block;
+      position: relative;
+      width: 0;
+      height: 10em;
+      margin-top: -10em;
     }
   }
+
   h1 {
     margin-top: 1em;
     padding-bottom: 0.5em;
-    border-bottom: 1px solid $border-color;
+    border-bottom: none;
+    position: relative;
+
+    &:after {
+      content: '';
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      width: 60px;
+      height: 3px;
+      background: linear-gradient(90deg, $indigo, $indigo-light);
+      border-radius: 2px;
+    }
+  }
+
+  h2 {
+    position: relative;
+    padding-left: 0.75em;
+
+    &:before {
+      content: '';
+      position: absolute;
+      left: 0;
+      top: 0.15em;
+      bottom: 0.15em;
+      width: 3px;
+      background: linear-gradient(180deg, $indigo, $indigo-light);
+      border-radius: 2px;
+    }
   }
 
   p, li, dl {
@@ -84,10 +114,16 @@
   }
 
   a {
-    text-decoration: underline;
+    text-decoration: none;
+    background-image: linear-gradient($indigo, $indigo);
+    background-size: 0% 1px;
+    background-position: 0% 100%;
+    background-repeat: no-repeat;
+    transition: background-size 0.3s ease, color 0.2s ease;
 
     &:hover {
-      text-decoration: underline;
+      text-decoration: none;
+      background-size: 100% 1px;
 
       img {
         box-shadow: 0 0 10px rgba(#000, 0.25);
@@ -238,7 +274,7 @@
 
 .page__meta {
   margin-top: 2em;
-  color: mix(#fff, $gray, 25%);
+  color: $slate-500;
   font-family: $sans-serif;
   font-size: $type-size-6;
 
