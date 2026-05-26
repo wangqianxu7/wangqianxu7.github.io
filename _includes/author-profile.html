@@ -119,6 +119,12 @@
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
 {% endif %}
     </ul>
+      {% if author.googlescholar %}
+      <div class="author__badges">
+        <img src="/images/北京大学.png" alt="Peking University" class="author__badge-img">
+        <img src="/images/南京信息工程大学.png" alt="NUIST" class="author__badge-img">
+      </div>
+      {% endif %}
       <div class="author__urls_sm">
       {% if author.uri %}
         <a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i></a>
