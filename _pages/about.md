@@ -63,7 +63,7 @@ My research interests include:
 # 💻 Internships
 
 - **RayNeo.AI** — Foundation Model Department, [RAYNEO](https://rayneo.cn) (Smart Glasses)  
-  <!-- **Manager:** [Sijie Cheng](https://adacheng.github.io/data/SijieCheng-CV.pdf)   -->
+  <!-- **Mentor:** [Sijie Cheng](https://adacheng.github.io/data/SijieCheng-CV.pdf)   -->
   <!-- *Research Intern* | Jun 2026 – Present | Shenzhen, China   -->
   *Research Intern* | Jun 2026 – Present | Shenzhen, China
   - Research on **egocentric video understanding** for personalized AI assistants on smart glasses.
@@ -71,12 +71,10 @@ My research interests include:
 <span class='anchor' id='projects'></span>
 # 📋 Projects
 
-- **Shenzhen Marine Promotion Center**  
-  *Technical Services for Large Language Models in Project Marine Area Usage Demonstration Reports*  
-  **Project Member** | Jul 2024 – Dec 2024 | ✅ Completed  
-  - Developed an **LLM-based agent auditing system** featuring a modular **planner–executor–reviewer** architecture.  
-  - Integrated **policy rule encoding**, **tool-augmented reasoning**, and **structured output constraints** to ensure regulatory compliance.  
-  - Designed evaluation metrics for **compliance accuracy**, **reasoning consistency**, and **error detection performance**.
+- **Territorial Spatial Planning Intelligence Platform**  
+  *Intelligent Analysis and Technical Support for Territorial Spatial Utilization*  
+  **Project Member** | Aug 2025 – Dec 2025 | ✅ Completed  
+  - Built an intelligent analysis system integrating **RAG technology** with an automated workflow, combining territorial spatial domain knowledge and multi-source data to enable end-to-end automation from data parsing and model inference to planning report generation, providing decision support for territorial spatial planning.
 
 - **China Academy of Urban Planning and Design (CUAPD)**  
   *Database Construction, Model Optimization, and Application Development for LLMs in Urban Planning*  
@@ -84,3 +82,10 @@ My research interests include:
   - Built an end-to-end **RAG pipeline** tailored for urban planning domain applications.  
   - Optimized document preprocessing, chunking strategy, and selected **domain-adapted embedding models**.  
   - Constructed and tuned a **vector database**, implemented **reranking**, and evaluated system on **retrieval accuracy** and **answer faithfulness**.
+
+- **Shenzhen Marine Promotion Center**  
+  *Technical Services for Large Language Models in Project Marine Area Usage Demonstration Reports*  
+  **Project Member** | Jul 2024 – Dec 2024 | ✅ Completed  
+  - Developed an **LLM-based agent auditing system** featuring a modular **planner–executor–reviewer** architecture.  
+  - Integrated **policy rule encoding**, **tool-augmented reasoning**, and **structured output constraints** to ensure regulatory compliance.  
+  - Designed evaluation metrics for **compliance accuracy**, **reasoning consistency**, and **error detection performance**.
