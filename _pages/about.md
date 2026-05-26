@@ -89,3 +89,10 @@ My research interests include:
   - Developed an **LLM-based agent auditing system** featuring a modular **planner–executor–reviewer** architecture.  
   - Integrated **policy rule encoding**, **tool-augmented reasoning**, and **structured output constraints** to ensure regulatory compliance.  
   - Designed evaluation metrics for **compliance accuracy**, **reasoning consistency**, and **error detection performance**.
+
+<div style="text-align: center; margin-top: 3em;">
+  <div style="display: inline-block; text-align: right;">
+    <p style="font-style: italic; text-align: center; margin-bottom: 0.25em;">"We'll do whatever just to stay alive."</p>
+    <p style="margin-top: 0;">&mdash;<em>Daydreamer</em></p>
+  </div>
+</div>
