@@ -60,7 +60,16 @@ My research interests include:
 - **2021.09 - 2025.06**   Undergraduate, School of Software, Nanjing University of Information Science & Technology (GPA: 4.1/5.0, Ranking: 1/142)
 
 <span class='anchor' id='internships'></span>
-# 💻 Internships/Project
+# 💻 Internships
+
+- **RayNeo.AI** — Foundation Model Department, RAYNEO (Smart Glasses) [https://rayneo.cn]  
+  <!-- **Manager:** [Sijie Cheng](https://adacheng.github.io/data/SijieCheng-CV.pdf)   -->
+  <!-- *Research Intern* | Jun 2026 – Present | Shenzhen, China   -->
+  *Research Intern* | Jun 2026 – Present | Shenzhen, China
+  - Research on **egocentric video understanding** for personalized AI assistants on smart glasses.
+
+<span class='anchor' id='projects'></span>
+# 📋 Projects
 
 - **Shenzhen Marine Promotion Center**  
   *Technical Services for Large Language Models in Project Marine Area Usage Demonstration Reports*  
