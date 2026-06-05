@@ -63,8 +63,7 @@ My research interests include:
 # 💻 Internships
 
 - **RayNeo.AI** — Foundation Model Department, [RAYNEO](https://rayneo.cn) (Smart Glasses)  
-  <!-- **Mentor:** [Sijie Cheng](https://adacheng.github.io/data/SijieCheng-CV.pdf)   -->
-  <!-- *Research Intern* | Jun 2026 – Present | Shenzhen, China   -->
+  **Mentor:** [Sijie Cheng](https://adacheng.github.io/data/SijieCheng-CV.pdf)  
   *Research Intern* | Jun 2026 – Present | Shenzhen, China
   - Research on **egocentric video understanding** for personalized AI assistants on smart glasses.
 
